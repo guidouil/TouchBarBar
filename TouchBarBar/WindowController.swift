@@ -1,6 +1,6 @@
 //
 //  WindowController.swift
-//  TouchFart
+//  TouchBarBar
 //
 //  Created by Guidouil on 10/29/16.
 //  Copyright © 2016 Guidouil. All rights reserved.
@@ -21,7 +21,6 @@ fileprivate extension NSTouchBarItemIdentifier {
     static let beer = NSTouchBarItemIdentifier("beer")
     static let martini = NSTouchBarItemIdentifier("martini")
 }
-
 
 
 class WindowController: NSWindowController, NSTouchBarDelegate {
@@ -83,6 +82,4 @@ class WindowController: NSWindowController, NSTouchBarDelegate {
             
         }
     }
-
-
 }
