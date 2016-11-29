@@ -6,6 +6,11 @@ A bar app for the new Macbook Pro's [Touch Bar](https://developer.apple.com/maco
 ![TouchBarBar Screenshot](http://i.imgur.com/ZclI6vPg.png)
 ![TouchBarBar Screenshot](http://i.imgur.com/j8vW34k.png)
 
+## Download
+[From here](https://github.com/guidouil/TouchBarBar/releases) or clone this repo and build it with Xcode 8.1
+
+⚠️ The Touch Bar Bar app requires macOS 10.12.1 or later, but there's a catch! You must have the very latest 10.12.1, with system support for the Touch Bar. If your 10.12.1 version is specifically 16B2657, you're good to go. If not, you can update to the required version [here](https://support.apple.com/kb/dl1897?locale=en_US). You can confirm you are running 16B2657 specifically, by clicking the version number in the About this Mac panel. Also you might need the [Touché app](https://red-sweater.com/touche/) to emulate the Touch Bar if you did not get the new Macbook Pro yet 😉
+
 ## Features
 1. Four different drinks sounds
 2. Four emoji
