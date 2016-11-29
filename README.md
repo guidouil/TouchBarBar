@@ -23,7 +23,9 @@ Feel free to copy this code and use it to make your own Touch Bar Bar app.
 
 ## Other Touch Bar applications
 [TouchFart](https://github.com/hungtruong/TouchFart)
+
 [Knight TouchBar 2000](https://github.com/AkdM/KnightTouchBar2000)
+
 [Touchbar Nyancat](https://github.com/avatsaev/touchbar_nyancat)
 
 ### Thanks
